@@ -319,8 +319,8 @@ img {
     color: var(--title-text-color);
 }
 
-.portfolio .item .list {
-    margin: 20px 24px;    
+.portfolio .item .text {
+    padding: 20px 24px;    
 }
 
 .portfolio .item p {
